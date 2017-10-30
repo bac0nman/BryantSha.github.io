@@ -1,0 +1,11 @@
+@charset "utf-8";
+#wrapper #nav ul {
+}
+#wrapper   {
+	margin-top: 3px;
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-bottom: 3px;
+	background-color: #E5A823;
+	border: 3px solid #0055A2;
+}
